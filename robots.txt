@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://avifauwo.github.io/LrQ/sitemap_index.txt
+Sitemap: https://avifauwo.github.io/lmi/sitemap_index.txt
+Sitemap: https://avifauwo.github.io/nsr/sitemap_index.txt
+Sitemap: https://avifauwo.github.io/qiT/sitemap_index.txt
